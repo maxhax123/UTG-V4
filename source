@@ -30,20 +30,12 @@ Main_:CreateButton("Killbot V2", "None", "", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/ydQ1ysuA"))()
 end)
 
-Main_:CreateButton("Neko Maid", "None", "", "", "", "", function()
-	loadstring(game:HttpGetAsync("https://paste.ee/d/iCtCM/0"))()
-end)
-
 Main_:CreateButton("R15 Invis", "None", "", "", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/uc6nN23y"))()
 end)
 
 Main_:CreateButton("Achromatic", "Shadow Blademasters Blade, Blademasters Blade", "Golden Demonic Greatsword, Corrupt Demonic Greatsword", "Frozen Demonic Greatsword, Demonic Greatsword", "", "", function()
 	loadstring(game:HttpGetAsync("https://pastebin.com/raw/ziSNxnKP"))()
-end)
-
-Main_:CreateButton("Boobs", "Motocross #62: Fire", "Motocross #77: The Sting", "Pink Ornament Earrings", "", "", function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/CszjntnR"))()
 end)
 
 Main_:CreateButton("Floss", "None", "", "", "", "", function()
